@@ -1,0 +1,7 @@
+[requires]
+libpng/1.6.37
+glm/0.9.9.8
+opencv/4.3.0@conan/stable
+
+[generators]
+cmake
