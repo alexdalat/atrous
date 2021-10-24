@@ -3,6 +3,8 @@ An à-trous based denoising filter built for a path-tracer made by me.
 
 Adapted from: https://jo.dreggn.org/home/2010_atrous.pdf
 
+Implemented into: https://github.com/Xeladarocks/pathtracer-cmake
+
 
 BEFORE                     | AFTER
 ---------------------------|---------------------------
